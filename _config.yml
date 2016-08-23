@@ -15,7 +15,7 @@ theme:
   visiblewords: 5
   # Header and footer text
   header_text: >
-     昨夜西风凋碧树，独上高楼，望断天涯路
+     昨夜西风凋碧树，独上高楼，望尽天涯路
 
   header_text_feature_image: img/sample_feature_img.png
   place_holder_image: img/sample_feature_img.png
@@ -41,7 +41,7 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "cuicheng11165"
+  twitter: ""
   wordpress:
   youtube:
 

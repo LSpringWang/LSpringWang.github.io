@@ -20,17 +20,17 @@ theme:
   header_text_feature_image: img/sample_feature_img.png
   place_holder_image: img/sample_feature_img.png
   footer_text: >
-   <a href="http://simmon.club">崔成</a> 
+   <a href="LSpringWang.github.io">Spring</a> 
 
   # Icons
   rss: false
-  email_address: "cuicheng11165@qq.com" # Full email address, e.g. "sam@example.com"
+  email_address: "1902149111@qq.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "cuicheng11165"
+  github: "LSpringWang"
   weibo: 
   google_plus:
   instagram:

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 所有文章
+title: All Articles
 permalink: /Archives/
 ---
 <section id="archive">

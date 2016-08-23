@@ -6,7 +6,7 @@ author: LeoSpring
 category: Program
 ---
 
-## 问题引入：  
+### 问题引入：  
 >存在一个问题，如果只给你一个字节的空间，但是程序中却有两个变量需要存储，但是变量的大小都在10以内，这个问题该如何解决呢？
 首先想到的就是按位操作，将一个字节分为前四个字节和后四个字节，分别存放2个变量，但是这样的按位操作比较麻烦，所以这里介绍一下位域，可以比较简单的解决这个问题。
 
@@ -30,32 +30,31 @@ category: Program
 * 3、位域的分配符合windows的内存操作要求，及要按照4个字节对其。
 
 下面我给几个在VC的程序的例子便可以清晰明了了：
- 
 
-       struct 
-       {
-           int a:4;
-           int d:4;    //sizeof  =  4; 
-       }testW;
+     struct 
+     {
+          int a:4;
+          int d:4;    //sizeof  =  4; 
+      }testW;
     
-        struct 
-       {
-            int a:4;
-            int d:4;    //sizeof  =  8;  存在windows对其
-           char c:4;
-       }testW;
+     struct 
+     {
+          int a:4;
+          int d:4;    //sizeof  =  8;  存在windows对其
+          char c:4;
+     }testW;
     
         struct 
         {
-              char a:4;
-              char d:4;    //sizeof  =  1;  
+          char a:4;
+          char d:4;    //sizeof  =  1;  
          }testW;
     
-        struct 
-        {
-             char a:4;
-                 int c:4;
-              char d:4;    //sizeof  =  12;  
-       }testW;
+     struct 
+     {
+          char a:4;
+          int c:4;
+          char d:4;    //sizeof  =  12;  
+     }testW;
 
 这样大家应该比较清晰如何使用位域了吧。

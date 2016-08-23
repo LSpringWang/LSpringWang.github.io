@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All Articles
+title: Achieves
 permalink: /Archives/
 ---
 <section id="archive">

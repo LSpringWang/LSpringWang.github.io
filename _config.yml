@@ -6,10 +6,10 @@ imageurl: "https://source.unsplash.com/category/nature/2600x500" #"https://unspl
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: 独上高楼
+  title: LeoSpring
   #avatar: avatar.png
   hometitle: Home #display on navigation menu.
-  yoursitetitle: 独上高楼的博客
+  yoursitetitle: LeoSpring‘s Idea
   gravatar: # Email MD5 hash
   description: "used by search engines" # used by search engines
   visiblewords: 5

@@ -1,6 +1,6 @@
 ---
 layout: blog_by_category
-title: '算法'
-category: 算法
+title: 'Algorithm'
+category: Algorithm
 permalink: /BuildWeb/
 ---

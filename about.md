@@ -5,7 +5,10 @@ permalink: /About/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-
+## About me
+   * Name : LeoSpring
+   * Graduate Student
+   * Image Process
 ## How to use it
 * Star & Fork the [repo](https://github.com/fengzhichu/fengzhichu-theme).
 * Rename repo as 'yourusername.github.io'.

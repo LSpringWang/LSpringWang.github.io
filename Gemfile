@@ -1,6 +1,2 @@
-source 'https://rubygems.org'
-
-# 'github-pages' includes 'jekyll' gem 
+source 'https://ruby.taobao.org/'
 gem 'github-pages'
-gem 'bourbon'
-gem 'jemoji'

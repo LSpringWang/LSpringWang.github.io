@@ -5,10 +5,6 @@ permalink: /About/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-# Fengzhichu Theme
-
-A jekyll theme for personal blog which based on [Type theme](https://github.com/rohanchandra/type-theme) and [ibireme's blog](http://blog.ibireme.com). Add several useful features. Fengzhichu Theme is powered by [Jekyll](http://jekyllrb.com/) and freely
-hosted in [Github pages](https://pages.github.com/).
 
 ## How to use it
 * Star & Fork the [repo](https://github.com/fengzhichu/fengzhichu-theme).

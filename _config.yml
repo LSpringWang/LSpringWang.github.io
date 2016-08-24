@@ -6,7 +6,7 @@ imageurl: "https://source.unsplash.com/category/nature/2600x500" #"https://unspl
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: LeoSpring
+  title: 王立春的个人主页
   #avatar: avatar.png
   hometitle: Home #display on navigation menu.
   yoursitetitle: LeoSpring‘s Idea
@@ -15,7 +15,7 @@ theme:
   visiblewords: 5
   # Header and footer text
   header_text: >
-     昨夜西风凋碧树，独上高楼，望尽天涯路
+     众里寻他千百度，蓦然回首，那人却在灯火阑珊处
 
   header_text_feature_image: img/sample_feature_img.png
   place_holder_image: img/sample_feature_img.png

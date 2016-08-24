@@ -9,14 +9,14 @@ feature-img: "img/sample_feature_img_2.png"
    * Name : LeoSpring
    * Graduate Student
    * Image Process
-## How to use it
+   
+##  How to use it
 * Star & Fork the [repo](https://github.com/fengzhichu/fengzhichu-theme).
 * Rename repo as 'yourusername.github.io'.
 * You can delete gh-pages branch if you want.
 * Clone your <b>master branch</b> to local directory.
 * Custom the '_config.yml' to your style.
 * Run jekyll serve -w.
-
 ## Customization
 
 ###_config.yml
